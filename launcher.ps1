@@ -1,2 +1,2 @@
-$website = "https://thananthon27-ops.github.io/SETTING-TRXP-V2/"
+$website = "https://thananthon27-ops.github.io/SETTINGTRXP-V2/"
 Start-Process $website
